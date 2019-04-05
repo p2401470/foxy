@@ -11,6 +11,7 @@ permalink: pretty
 
 collections:
   - docs
+    output: true
 
 exclude: [
   README.markdown,
