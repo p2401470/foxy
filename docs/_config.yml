@@ -3,7 +3,7 @@ description: This is a sample Jekyll Blog.
 author: Your Name
 author_email: you@example.com
 category_dir: /
-baseurl: 
+baseurl:
 url: http://yourdomain.com/
 markdown: rdiscount
 permalink: pretty
