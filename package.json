@@ -1,0 +1,23 @@
+{
+  "name": "foxy",
+  "version": "0.0.1",
+  "description": "A css framework based on the Firefox UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2401470/foxy.git"
+  },
+  "keywords": [
+    "css",
+    "framework"
+  ],
+  "author": "zana-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p2401470/foxy/issues"
+  },
+  "homepage": "https://github.com/p2401470/foxy#readme"
+}
