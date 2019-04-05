@@ -1,6 +1,6 @@
 name: Sample Jekyll Blog
-description: This is a sample Jekyll Blog.
-author: Your Name
+description: A css.
+author: Zana
 author_email: you@example.com
 category_dir: /
 baseurl: foxy
@@ -8,6 +8,9 @@ url: https://p2401470.github.io/
 markdown: rdiscount
 permalink: pretty
 # paginate: 3
+
+collections:
+  - documentation
 
 exclude: [
   README.markdown,
