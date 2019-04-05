@@ -4,7 +4,7 @@ author: Your Name
 author_email: you@example.com
 category_dir: /
 baseurl: foxy/
-url: http://https://p2401470.github.io/
+url: https://p2401470.github.io/
 markdown: rdiscount
 permalink: pretty
 # paginate: 3
